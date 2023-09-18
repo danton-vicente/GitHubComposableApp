@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposableGitHubApp</string>
+
+    <!-- ROUTE -->
+    <string name="main_route">MainScreen</string>
+
+</resources>
